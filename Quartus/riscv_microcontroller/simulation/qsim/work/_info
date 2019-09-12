@@ -1,0 +1,220 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Documents-bkp\UFRN\TCC\Quartus\riscv_microcontroller\simulation\qsim
+Emicrocontroller
+Z1 w1565813866
+Z2 DPx9 cycloneiv 19 cycloneiv_atom_pack 0 22 m?`=;YMPDJ6nin9AMY9NB1
+Z3 DPx9 cycloneiv 20 cycloneiv_components 0 22 bh0cR2@ZAOzXIcZ^3KXOk0
+Z4 DPx4 ieee 16 vital_primitives 0 22 9W@YP9_VCb?_GCJ8e:;YQ0
+Z5 DPx6 altera 11 dffeas_pack 0 22 Giz7C_dB_=WZS^1=3P8073
+Z6 DPx4 ieee 12 vital_timing 0 22 7h8zz2S4HVg:a;2TBMI[j1
+Z7 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z8 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z9 DPx6 altera 28 altera_primitives_components 0 22 W]_:GkoiISnEn83KNb:3:2
+Z10 dE:\Documents-bkp\UFRN\TCC - with debug signals - Copy\Quartus\riscv_microcontroller\simulation\qsim
+Z11 8riscv_microcontroller.vho
+Z12 Friscv_microcontroller.vho
+l0
+L36
+V8BKk^aj:3zPao=S;;3P:M1
+Z13 OV;C;10.1d;51
+32
+Z14 !s108 1565813867.364000
+Z15 !s90 -work|work|riscv_microcontroller.vho|
+Z16 !s107 riscv_microcontroller.vho|
+Z17 o-work work -O0
+Z18 tExplicit 1
+!s100 JEg>j]727RBnALFh?zPI10
+!i10b 1
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+DEx4 work 15 microcontroller 0 22 8BKk^aj:3zPao=S;;3P:M1
+l6120
+L70
+VhAWONom1Sm@`HjSKL34e>0
+R13
+32
+R14
+R15
+R16
+R17
+R18
+!s100 AB:]Z[m?0SH1R3]QUcX[T1
+!i10b 1
+Emicrocontroller_vhd_vec_tst
+Z19 w1565813863
+R7
+R8
+R10
+Z20 8microcontroller.vwf.vht
+Z21 Fmicrocontroller.vwf.vht
+l0
+L31
+VQ54KM<N6Y@1R0=[No9JZf0
+!s100 9@IYP7BbHM]6DJ_GL9GO33
+R13
+32
+!i10b 1
+Z22 !s108 1565813869.804000
+Z23 !s90 -work|work|microcontroller.vwf.vht|
+Z24 !s107 microcontroller.vwf.vht|
+R17
+R18
+Amicrocontroller_arch
+R7
+R8
+Z25 DEx4 work 27 microcontroller_vhd_vec_tst 0 22 Q54KM<N6Y@1R0=[No9JZf0
+l98
+L33
+Z26 V8=m3GD?@XM7Y0mRFf^?MO1
+Z27 !s100 FfQY6C30k45X=YU9kdD6N0
+R13
+32
+!i10b 1
+R22
+R23
+R24
+R17
+R18
+vmicrocontroller_vlg_check_tst
+IG27gBXgB]7OeZfGlGO9L<3
+VQ6Z>5>0Cf=zW:=E8]?>fV0
+Z28 dE:\Documents-bkp\UFRN\TCC - with debug signals\Quartus\riscv_microcontroller\simulation\qsim
+Z29 w1563157323
+Z30 8riscv_microcontroller.vt
+Z31 Friscv_microcontroller.vt
+L0 59
+Z32 OV;L;10.1d;51
+r1
+31
+Z33 !s108 1563157328.200000
+Z34 !s107 riscv_microcontroller.vt|
+Z35 !s90 -work|work|riscv_microcontroller.vt|
+R17
+!i10b 1
+!s100 KXlUICCkK5GTm0YzohL4S3
+!s85 0
+!s101 -O0
+vmicrocontroller_vlg_sample_tst
+IGY2[ee>PQ_Y:lC5[]aZD43
+V<PHm5RiXd?I]41eoRchQX3
+R28
+R29
+R30
+R31
+L0 29
+R32
+r1
+31
+R33
+R34
+R35
+R17
+!s100 XS5X8FcoFXBSh68`SdcZS0
+!i10b 1
+!s85 0
+!s101 -O0
+vmicrocontroller_vlg_vec_tst
+IeC?BnY`:lljWh4`Iom88L1
+VCn?2iJ3=;bcX4MPVO=Th<3
+R28
+R29
+R30
+R31
+L0 9723
+R32
+r1
+31
+R33
+R34
+R35
+R17
+!i10b 1
+!s100 nR:Z?KFBB1elHTgg:2BlA3
+!s85 0
+!s101 -O0
+vriscv_microcontroller
+ICn1`kO=T@h6K2_57cU4ok2
+VXozPKI8:fW?OGABW:ck4h1
+Z36 dE:\Documents-bkp\UFRN\TCC\Quartus\riscv_microcontroller\simulation\qsim
+w1561834701
+8riscv_microcontroller.vo
+Friscv_microcontroller.vo
+L0 31
+R32
+r1
+31
+R17
+!s90 -work|work|riscv_microcontroller.vo|
+!s107 riscv_microcontroller.vo|
+!s100 CooeX^@kjR;?>_m@lfl:C2
+!s108 1561834703.850000
+!i10b 1
+!s85 0
+!s101 -O0
+vriscv_microcontroller_vlg_check_tst
+I@0oil7h>^SNT[zJ4^:RzP1
+VPWF6E=54M64l]LXgjNCk52
+R36
+Z37 w1561834698
+R30
+R31
+L0 59
+R32
+r1
+31
+Z38 !s108 1561834704.482000
+R34
+R35
+R17
+!s100 fiT>1JL@`QSV2oBF`gODa0
+!i10b 1
+!s85 0
+!s101 -O0
+vriscv_microcontroller_vlg_sample_tst
+IKE?bl;9`_Y1@3`WN]=?C50
+VgDknNPZWolFCQ]@XQo8]d0
+R36
+R37
+R30
+R31
+L0 29
+R32
+r1
+31
+R38
+R34
+R35
+R17
+!s100 cR;AnY1?b_?bIdUL4d`Ek1
+!i10b 1
+!s85 0
+!s101 -O0
+vriscv_microcontroller_vlg_vec_tst
+Ii282eB@`[h6R9[bBlSkaf2
+Vn]9@nXonF@`Sf9khJgOOW0
+R36
+R37
+R30
+R31
+L0 5208
+R32
+r1
+31
+R38
+R34
+R35
+R17
+!s100 CWC`Ij4K1lN1ZmJ<HimhT1
+!i10b 1
+!s85 0
+!s101 -O0

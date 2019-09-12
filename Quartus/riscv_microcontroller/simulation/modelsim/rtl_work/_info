@@ -1,0 +1,398 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Documents-bkp\UFRN\TCC\Quartus\riscv_microcontroller\simulation\modelsim
+Edatamem
+Z1 w1558390861
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dE:\Documents-bkp\UFRN\TCC\Quartus\riscv_microcontroller\simulation\modelsim
+Z5 8E:/Documents-bkp/UFRN/TCC/Quartus/Datapath/datamem.vhd
+Z6 FE:/Documents-bkp/UFRN/TCC/Quartus/Datapath/datamem.vhd
+l0
+L42
+V29TLV98Nf0O3eWjlQ;a`S3
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1562550765.281000
+Z9 !s90 -reportprogress|300|-93|-work|work|E:/Documents-bkp/UFRN/TCC/Quartus/Datapath/datamem.vhd|
+Z10 !s107 E:/Documents-bkp/UFRN/TCC/Quartus/Datapath/datamem.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 ANAnzfS3E6m[ihBP=>9mm0
+!i10b 1
+Asyn
+R2
+R3
+DEx4 work 7 datamem 0 22 29TLV98Nf0O3eWjlQ;a`S3
+l86
+L54
+V>a7WFU4A>N_528FDH8naR3
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 U:Zk[Ac`W>9lO4<mDl4Cd0
+!i10b 1
+vmicrocontroller_vlg_check_tst
+!i10b 1
+!s100 cj_LSJhGA9iF^ldb5D5Oj1
+IJ:i2[:K@VYd32S:b;6KI=0
+Vhc18:8BZBi<6[`jTXh4Vg0
+R4
+Z13 w1562550614
+Z14 8E:/Documents-bkp/UFRN/TCC/Quartus/riscv_microcontroller/simulation/modelsim/microcontroller.vwf.vt
+Z15 FE:/Documents-bkp/UFRN/TCC/Quartus/riscv_microcontroller/simulation/modelsim/microcontroller.vwf.vt
+L0 59
+Z16 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z17 !s108 1562550834.699000
+Z18 !s107 E:/Documents-bkp/UFRN/TCC/Quartus/riscv_microcontroller/simulation/modelsim/microcontroller.vwf.vt|
+Z19 !s90 -reportprogress|300|-work|work|E:/Documents-bkp/UFRN/TCC/Quartus/riscv_microcontroller/simulation/modelsim/microcontroller.vwf.vt|
+!s101 -O0
+Z20 o-work work -O0
+vmicrocontroller_vlg_sample_tst
+!i10b 1
+!s100 JYYjM6W=U^VkX`^1]KHZD0
+I9aA1i:Lm3zWYW:?e53]Gl3
+V<PHm5RiXd?I]41eoRchQX3
+R4
+R13
+R14
+R15
+L0 29
+R16
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R20
+vmicrocontroller_vlg_vec_tst
+!i10b 1
+!s100 ;[UiI_7In@d9l4SBf80G81
+I4aV>cCPQ^hlfkMZ=<kz9W0
+VCn?2iJ3=;bcX4MPVO=Th<3
+R4
+R13
+R14
+R15
+L0 9811
+R16
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R20
+Emux_32_1
+w1561232309
+R2
+R3
+R4
+8E:/Documents-bkp/UFRN/TCC/Project/Components/mux_32_1.vhd
+FE:/Documents-bkp/UFRN/TCC/Project/Components/mux_32_1.vhd
+l0
+L4
+V>K3=WeTN85`=_kXB=OC553
+R7
+31
+R11
+R12
+!s100 z^hBP[:bXBDJ[T[clKA>Y2
+!i10b 1
+!s108 1562550765.936000
+!s90 -reportprogress|300|-93|-work|work|E:/Documents-bkp/UFRN/TCC/Project/Components/mux_32_1.vhd|
+!s107 E:/Documents-bkp/UFRN/TCC/Project/Components/mux_32_1.vhd|
+Eprogmem
+Z21 w1558389180
+R2
+R3
+R4
+Z22 8E:/Documents-bkp/UFRN/TCC/Quartus/Datapath/progmem.vhd
+Z23 FE:/Documents-bkp/UFRN/TCC/Quartus/Datapath/progmem.vhd
+l0
+L42
+VJzmPU]j<CQj^HL^bVHc2A3
+R7
+31
+Z24 !s108 1562550765.102000
+Z25 !s90 -reportprogress|300|-93|-work|work|E:/Documents-bkp/UFRN/TCC/Quartus/Datapath/progmem.vhd|
+Z26 !s107 E:/Documents-bkp/UFRN/TCC/Quartus/Datapath/progmem.vhd|
+R11
+R12
+!s100 11VU41Q=M8dI85DAA^gbL0
+!i10b 1
+Asyn
+R2
+R3
+DEx4 work 7 progmem 0 22 JzmPU]j<CQj^HL^bVHc2A3
+l87
+L54
+V<5b_@892D4Kikmj;ZL>@W0
+R7
+31
+R24
+R25
+R26
+R11
+R12
+!s100 =ClaBYoa@eGl3N3N0Cz4m0
+!i10b 1
+Eprogram_counter
+Z27 w1562544647
+Z28 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R2
+R3
+R4
+Z29 8E:/Documents-bkp/UFRN/TCC/Project/Components/program_counter.vhd
+Z30 FE:/Documents-bkp/UFRN/TCC/Project/Components/program_counter.vhd
+l0
+L5
+VMeiLMA_37Y7<:mWTloOPg2
+R7
+31
+Z31 !s108 1562550765.735000
+Z32 !s90 -reportprogress|300|-93|-work|work|E:/Documents-bkp/UFRN/TCC/Project/Components/program_counter.vhd|
+Z33 !s107 E:/Documents-bkp/UFRN/TCC/Project/Components/program_counter.vhd|
+R11
+R12
+!s100 ^A17U:i3Obg4TC27>Hi>A0
+!i10b 1
+Abehavioral
+R28
+R2
+R3
+DEx4 work 15 program_counter 0 22 MeiLMA_37Y7<:mWTloOPg2
+l20
+L18
+V<7^fY]IkZ8Y2k]SSB?BJF3
+R7
+31
+R31
+R32
+R33
+R11
+R12
+!s100 [_coc>U7`VfF9gHD`KhBi3
+!i10b 1
+Ereg1b
+Z34 w1560953063
+R2
+R3
+R4
+Z35 8E:/Documents-bkp/UFRN/TCC/Project/Components/reg1b.vhd
+Z36 FE:/Documents-bkp/UFRN/TCC/Project/Components/reg1b.vhd
+l0
+L4
+Vc3kDD]X@i6?hNNGhUU=0P2
+R7
+31
+Z37 !s108 1562550764.918000
+Z38 !s90 -reportprogress|300|-93|-work|work|E:/Documents-bkp/UFRN/TCC/Project/Components/reg1b.vhd|
+Z39 !s107 E:/Documents-bkp/UFRN/TCC/Project/Components/reg1b.vhd|
+R11
+R12
+!s100 <7[9Ca5G37DH667@4elP_2
+!i10b 1
+Adescription
+R2
+R3
+DEx4 work 5 reg1b 0 22 c3kDD]X@i6?hNNGhUU=0P2
+l13
+L12
+V<^WQbbeY]He_Em0PV8f=i0
+R7
+31
+R37
+R38
+R39
+R11
+R12
+!s100 7024H1>j;e6f_8:1OOHeQ0
+!i10b 1
+Ereg2b
+Z40 w1562119253
+R2
+R3
+R4
+Z41 8E:/Documents-bkp/UFRN/TCC/Project/Components/reg2b.vhd
+Z42 FE:/Documents-bkp/UFRN/TCC/Project/Components/reg2b.vhd
+l0
+L4
+VmDAAYSK_>@mOlQiDT9TXe0
+R7
+31
+Z43 !s108 1562550764.701000
+Z44 !s90 -reportprogress|300|-93|-work|work|E:/Documents-bkp/UFRN/TCC/Project/Components/reg2b.vhd|
+Z45 !s107 E:/Documents-bkp/UFRN/TCC/Project/Components/reg2b.vhd|
+R11
+R12
+!s100 [cb?Qb?Wf25Pi1OJmz6ka0
+!i10b 1
+Adescription
+R2
+R3
+DEx4 work 5 reg2b 0 22 mDAAYSK_>@mOlQiDT9TXe0
+l14
+L12
+VOn=P2IRWJR5[^]N;ioWGH2
+R7
+31
+R43
+R44
+R45
+R11
+R12
+!s100 MnKF4[V_O7eI7Nm6bFP[T1
+!i10b 1
+Ereg32b
+Z46 w1561232354
+R2
+R3
+R4
+Z47 8E:/Documents-bkp/UFRN/TCC/Project/Components/reg32b.vhd
+Z48 FE:/Documents-bkp/UFRN/TCC/Project/Components/reg32b.vhd
+l0
+L4
+V3UXbc^3_]==_VnDiGmoh@3
+R7
+31
+Z49 !s108 1562550765.466000
+Z50 !s90 -reportprogress|300|-93|-work|work|E:/Documents-bkp/UFRN/TCC/Project/Components/reg32b.vhd|
+Z51 !s107 E:/Documents-bkp/UFRN/TCC/Project/Components/reg32b.vhd|
+R11
+R12
+!s100 Zf^0kk?8QCjk0Il3T@n_A2
+!i10b 1
+Adescription
+R2
+R3
+DEx4 work 6 reg32b 0 22 3UXbc^3_]==_VnDiGmoh@3
+l14
+L12
+V]M:2RJ7Nk?b?jWQ`ObU700
+R7
+31
+R49
+R50
+R51
+R11
+R12
+!s100 a5nNg:9Wj6oGhglb^<2D^1
+!i10b 1
+Ereg32b_falling_edge
+Z52 w1562269877
+R2
+R3
+R4
+Z53 8E:/Documents-bkp/UFRN/TCC/Project/Components/reg32b_falling_edge.vhd
+Z54 FE:/Documents-bkp/UFRN/TCC/Project/Components/reg32b_falling_edge.vhd
+l0
+L4
+Vi@kkCle1Jb8:Y_hNFKh9@0
+R7
+31
+Z55 !s108 1562550764.063000
+Z56 !s90 -reportprogress|300|-93|-work|work|E:/Documents-bkp/UFRN/TCC/Project/Components/reg32b_falling_edge.vhd|
+Z57 !s107 E:/Documents-bkp/UFRN/TCC/Project/Components/reg32b_falling_edge.vhd|
+R11
+R12
+!s100 _>Pi2ck[MEcc0MOaI4K<^1
+!i10b 1
+Adescription
+R2
+R3
+DEx4 work 19 reg32b_falling_edge 0 22 i@kkCle1Jb8:Y_hNFKh9@0
+l14
+L12
+V__^[Y:zRld9dgUL@TFg:[2
+R7
+31
+R55
+R56
+R57
+R11
+R12
+!s100 V?8=GGffUa96_IlhnOf=W1
+!i10b 1
+Ereg3b
+Z58 w1562119244
+R2
+R3
+R4
+Z59 8E:/Documents-bkp/UFRN/TCC/Project/Components/reg3b.vhd
+Z60 FE:/Documents-bkp/UFRN/TCC/Project/Components/reg3b.vhd
+l0
+L4
+V<@?h7?z=OiC`?0;2azmM=3
+R7
+31
+Z61 !s108 1562550764.501000
+Z62 !s90 -reportprogress|300|-93|-work|work|E:/Documents-bkp/UFRN/TCC/Project/Components/reg3b.vhd|
+Z63 !s107 E:/Documents-bkp/UFRN/TCC/Project/Components/reg3b.vhd|
+R11
+R12
+!s100 HlZK5RO0_zK9lfQcgG=F41
+!i10b 1
+Adescription
+R2
+R3
+DEx4 work 5 reg3b 0 22 <@?h7?z=OiC`?0;2azmM=3
+l14
+L12
+VeeSDml>U0RkH5D5kkGJWd0
+R7
+31
+R61
+R62
+R63
+R11
+R12
+!s100 F4YJVm9AI`WWbLG7giU^B0
+!i10b 1
+Ereg4b
+Z64 w1562119023
+R2
+R3
+R4
+Z65 8E:/Documents-bkp/UFRN/TCC/Project/Components/reg4b.vhd
+Z66 FE:/Documents-bkp/UFRN/TCC/Project/Components/reg4b.vhd
+l0
+L4
+VN0P:MI^eR3_O5TJW^[;OL2
+R7
+31
+Z67 !s108 1562550764.247000
+Z68 !s90 -reportprogress|300|-93|-work|work|E:/Documents-bkp/UFRN/TCC/Project/Components/reg4b.vhd|
+Z69 !s107 E:/Documents-bkp/UFRN/TCC/Project/Components/reg4b.vhd|
+R11
+R12
+!s100 ih2JK`>6?096z12E2aIAh3
+!i10b 1
+Adescription
+R2
+R3
+DEx4 work 5 reg4b 0 22 N0P:MI^eR3_O5TJW^[;OL2
+l14
+L12
+V`<3QSQ]_Vld7KM8fk1KGj3
+R7
+31
+R67
+R68
+R69
+R11
+R12
+!s100 kgYm`Glf<o6W?@M7=bb_U3
+!i10b 1

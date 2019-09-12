@@ -1,0 +1,130 @@
+# Reading D:/Programs/Altera/Quartus/modelsim_ase/tcl/vsim/pref.tcl 
+# do riscv_microcontroller_run_msim_rtl_vhdl.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying D:\Programs\Altera\Quartus\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied D:\Programs\Altera\Quartus\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -93 -work work {E:/Documents-bkp/UFRN/TCC/Project/Components/reg32b_falling_edge.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity reg32b_falling_edge
+# -- Compiling architecture description of reg32b_falling_edge
+# vcom -93 -work work {E:/Documents-bkp/UFRN/TCC/Project/Components/reg4b.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity reg4b
+# -- Compiling architecture description of reg4b
+# vcom -93 -work work {E:/Documents-bkp/UFRN/TCC/Project/Components/reg3b.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity reg3b
+# -- Compiling architecture description of reg3b
+# vcom -93 -work work {E:/Documents-bkp/UFRN/TCC/Project/Components/reg2b.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity reg2b
+# -- Compiling architecture description of reg2b
+# vcom -93 -work work {E:/Documents-bkp/UFRN/TCC/Project/Components/reg1b.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity reg1b
+# -- Compiling architecture description of reg1b
+# vcom -93 -work work {E:/Documents-bkp/UFRN/TCC/Quartus/Datapath/progmem.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity progmem
+# -- Compiling architecture SYN of progmem
+# vcom -93 -work work {E:/Documents-bkp/UFRN/TCC/Quartus/Datapath/datamem.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity datamem
+# -- Compiling architecture SYN of datamem
+# vcom -93 -work work {E:/Documents-bkp/UFRN/TCC/Project/Components/reg32b.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity reg32b
+# -- Compiling architecture description of reg32b
+# vcom -93 -work work {E:/Documents-bkp/UFRN/TCC/Project/Components/program_counter.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity program_counter
+# -- Compiling architecture behavioral of program_counter
+# vcom -93 -work work {E:/Documents-bkp/UFRN/TCC/Project/Components/mux_32_1.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux_32_1
+# -- Compiling architecture behavioral of mux_32_1
+# ** Error: E:/Documents-bkp/UFRN/TCC/Project/Components/mux_32_1.vhd(15): (vcom-1339) Selected signal assignment choices cover only 32 out of 59049 cases.
+# 
+# ** Error: E:/Documents-bkp/UFRN/TCC/Project/Components/mux_32_1.vhd(49): VHDL Compiler exiting
+# ** Error: D:/Programs/Altera/Quartus/modelsim_ase/win32aloem/vcom failed.
+# Error in macro ./riscv_microcontroller_run_msim_rtl_vhdl.do line 17
+# D:/Programs/Altera/Quartus/modelsim_ase/win32aloem/vcom failed.
+#     while executing
+# "vcom -93 -work work {E:/Documents-bkp/UFRN/TCC/Project/Components/mux_32_1.vhd}"
+do E:/Documents-bkp/UFRN/TCC/Quartus/riscv_microcontroller/simulation/modelsim/microcontroller.vwf.do
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module microcontroller_vlg_sample_tst
+# -- Compiling module microcontroller_vlg_check_tst
+# -- Compiling module microcontroller_vlg_vec_tst
+# 
+# Top level modules:
+# 	microcontroller_vlg_vec_tst
+# vsim -L cycloneiv_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate -c -t 1ps -novopt work.microcontroller_vlg_vec_tst 
+# Loading work.microcontroller_vlg_vec_tst
+# ** Error: (vsim-3033) E:/Documents-bkp/UFRN/TCC/Quartus/riscv_microcontroller/simulation/modelsim/microcontroller.vwf.vt(9883): Instantiation of 'microcontroller' failed. The design unit was not found.
+# 
+#         Region: /microcontroller_vlg_vec_tst
+#         Searched libraries:
+#             D:/Programs/Altera/Quartus/modelsim_ase/altera/verilog/cycloneiv
+#             D:/Programs/Altera/Quartus/modelsim_ase/altera/verilog/altera
+#             D:/Programs/Altera/Quartus/modelsim_ase/altera/verilog/altera_mf
+#             D:/Programs/Altera/Quartus/modelsim_ase/altera/verilog/220model
+#             D:/Programs/Altera/Quartus/modelsim_ase/altera/vhdl/sgate
+#             E:/Documents-bkp/UFRN/TCC/Quartus/riscv_microcontroller/simulation/modelsim/rtl_work
+# Loading work.microcontroller_vlg_sample_tst
+# Loading work.microcontroller_vlg_check_tst
+# Error loading design
+# Error: Error loading design 
+#        Pausing macro execution 
+# MACRO E:\Documents-bkp\UFRN\TCC\Quartus\riscv_microcontroller\simulation\modelsim\microcontroller.vwf.do PAUSED at line 2
+vlib tcc
+vmap tcc tcc
+# Modifying modelsim.ini
+vmap -del tcc
+# Removing reference to logical library tcc
+# Modifying modelsim.ini
+vsim rtl_work.microcontroller_vlg_check_tst
+# vsim rtl_work.microcontroller_vlg_check_tst 
+# Loading work.microcontroller_vlg_check_tst
+# Load canceled
+vsim rtl_work.microcontroller_vlg_check_tst
+# vsim rtl_work.microcontroller_vlg_check_tst 
+# Loading rtl_work.microcontroller_vlg_check_tst

@@ -1,0 +1,64 @@
+# do riscv_microcontroller.do 
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package VITAL_Timing
+# -- Loading package VITAL_Primitives
+# -- Loading package dffeas_pack
+# -- Loading package altera_primitives_components
+# -- Loading package cycloneiv_atom_pack
+# -- Loading package cycloneiv_components
+# -- Compiling entity microcontroller
+# -- Compiling architecture structure of microcontroller
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity microcontroller_vhd_vec_tst
+# -- Compiling architecture microcontroller_arch of microcontroller_vhd_vec_tst
+# vsim -L cycloneiv -L altera -L altera_mf -L 220model -L sgate -L altera_lnsim -c -t 1ps -novopt work.microcontroller_vhd_vec_tst 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.microcontroller_vhd_vec_tst(microcontroller_arch)
+# Loading ieee.vital_timing(body)
+# Loading ieee.vital_primitives(body)
+# Loading altera.dffeas_pack
+# Loading altera.altera_primitives_components
+# Loading cycloneiv.cycloneiv_atom_pack(body)
+# Loading cycloneiv.cycloneiv_components
+# Loading work.microcontroller(structure)
+# Loading ieee.std_logic_arith(body)
+# Loading cycloneiv.cycloneiv_io_obuf(arch)
+# Loading cycloneiv.cycloneiv_io_ibuf(arch)
+# Loading altera.dffeas(vital_dffeas)
+# Loading cycloneiv.cycloneiv_lcell_comb(vital_lcell_comb)
+# Loading cycloneiv.cycloneiv_ram_block(block_arch)
+# Loading cycloneiv.cycloneiv_ram_register(reg_arch)
+# Loading cycloneiv.cycloneiv_ram_pulse_generator(pgen_arch)
+# ** Warning: Design size of 4 instances exceeds ModelSim ALTERA recommended capacity.
+# This may because you are loading cell libraries which are not recommended with
+# the ModelSim Altera version. Expect performance to be adversely affected.
+# after#35
+# Simulation time: 0 ps 
+# Simulation time: 0 ps 
+# Simulation time: 0 ps 
+# Simulation time: 0 ps 
+# Simulation time: 0 ps 
+# Simulation time: 0 ps 
+# Simulation time: 0 ps 
+# Simulation time: 0 ps 
+# Simulation time: 435000 ps 
+# Simulation time: 435000 ps 
+# Simulation time: 435000 ps 
+# Simulation time: 435000 ps 
+# Simulation time: 435000 ps 
+# Simulation time: 435000 ps 
+# Simulation time: 435000 ps 
+# Simulation time: 435000 ps 
+# Simulation time: 795000 ps 
+# Simulation time: 795000 ps 
+# Simulation time: 795000 ps 
