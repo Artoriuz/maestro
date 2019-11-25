@@ -16,7 +16,7 @@ This repository contains a 5 stage pipeline implementation of the RV32I ISA stro
 - Outputs that start with "debug" are not mandatory and only exist to make debugging easier.
 
 ## Inconveniences
-- If you want to run compiled code, perhaps using [Sifive's elf2hex](https://github.com/sifive/elf2hex) is your solution.
+- If you want to run compiled code, [Sifive's elf2hex](https://github.com/sifive/elf2hex) might help. The core, however, is only intended to be used academically and writing assembly or even the machine code yourself is usually reasonable for super simple programs.
 - The processor does not have any output. Use the debug output or load to memory to move data out of it. 
 
 ## Simplified Schematic
